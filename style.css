@@ -1,0 +1,470 @@
+*{
+    margin: 0;
+    
+    padding: 0;
+}
+.menu{
+    margin-top: 8px;
+    position: fixed;
+    display: inline;
+    
+}
+.twitter{
+    font-size: 70px;
+    margin-left: 25px;
+}
+.home{
+    font-size: 35px;
+    margin-left: 35px;
+    
+}
+.home2{
+    font-size: 25px;
+    color: skyblue;
+    display: inline;
+    padding: 15px;
+    font-weight: bold;
+}
+.hashtag{
+    font-size: 35px;
+    margin-left: 35px;
+    
+}
+.explore{
+    display: inline;
+    padding: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.noti{
+    font-size: 35px;
+    margin-left: 35px;
+}
+.noti2{
+    display: inline;
+    padding: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.message{
+    font-size: 35px;
+    margin-left: 35px;
+}
+.message2{
+    display: inline;
+    padding: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.bookmark{
+    font-size: 35px;
+    margin-left: 35px;
+}
+.bookmark2{
+    display: inline;
+    padding: 24px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.list{
+    font-size: 35px;
+    margin-left: 35px;
+}
+.list2{
+    display: inline;
+    padding: 24px;
+    font-size: 28px;
+    font-weight: bold;
+    
+}
+.profile{
+    margin-top: 10px;
+    height: 42px;
+    width: 42px;
+    border-radius: 100%;
+    margin-left: 31px;
+    background-image: url(https://images.pexels.com/photos/3867210/pexels-photo-3867210.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-size: 42px 42px ;
+    background-repeat: no-repeat;
+}
+.profile2{
+    
+    display: inline;
+    padding: 60px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.more{
+    display: inline;
+    padding-left: 42px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.more2{
+    display: inline;
+    padding-left: 33px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.tweet{
+
+    background-color: rgb(52, 188, 241);
+    height: 45px;
+    width: 200px;
+    text-align: center;
+    margin-left: 33px;
+  
+    border-radius: 20px;
+    margin-top: 10px;
+    
+    
+}
+.tweet2{
+    padding-top: 12px;
+    
+
+}
+button{
+    text-transform: capitalize;
+    background-color:rgb(52, 188, 241); 
+    border: 1px solid rgb(52, 188, 241);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+.postpage{
+    height: 1250px;
+    width: 650px;
+    border: 1px solid lightgray;
+    border-radius: 6px;
+    margin-left: 290px;
+    
+}
+.box1{
+font-size: 30px;
+font-weight: bolder;
+padding-left: 10px;
+padding-top:  20px;
+padding-bottom:20px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.star{
+    display: inline;
+    padding-left: 500px;
+    padding-top: 20px;
+    padding-bottom:20px;
+    font-size: 25px;
+    
+    
+}
+hr{
+    color: lightgray;
+    
+}
+.picture{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    margin: 8px;
+    background-image: url(https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hat{
+    display: inline-block;
+    color: gray;
+    font-size: 25px;
+    margin-left: 40px;
+    margin-top: 5px;
+    font-weight: lighter;
+}
+.icons{
+    display: inline-flex;
+    margin-left: 30px;
+    
+}
+.icon1{
+    display: inline-flex;
+    margin-left: 28px;
+    font-size: 25px;
+    color: skyblue;
+}
+.icon2{
+    display: inline-flex;
+    margin-left: 28px;
+    font-size: 25px;
+    color: skyblue;
+}
+.icon3{
+    display: inline-flex;
+    margin-left: 28px;
+    font-size: 25px;
+    color: skyblue;
+}
+.icon4{
+    display: inline-flex;
+    margin-left: 28px;
+    font-size: 25px;
+    color: skyblue;
+}
+.con3{
+    display: inline-flex;
+}
+
+.batan{
+   
+    background-color: rgb(52, 188, 241);
+    height: 30x;
+    width: 100px;
+    margin-left: 300px;
+    border-radius: 20px;
+    color: white;
+    
+}
+.batan2{
+    font-size: 25px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: light;
+}
+.shat{
+    color: white;
+    background-color:  rgb(52, 188, 241);
+    cursor: pointer;
+
+}
+.spaceline{
+    background-color: lightgray;
+    height: 15px;
+    width: 650px;
+    border-radius: 4px;
+}
+.display1{
+    display: inline-flex;
+}
+.profilepic{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-image: url(https://images.pexels.com/photos/14412883/pexels-photo-14412883.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.profilename{
+    display: inline-flex;
+    font-size: 25px;
+    margin-left: 60px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 1px;
+    font-style: italic;
+
+}
+.profilemail{
+    font-size: 18px;
+    margin-left: 8px;
+    margin-top: 5px;
+    color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.content1{
+    justify-content:left;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+.hashtag2{
+    display:inline-block;
+    font-size: 18px;
+    margin:auto;
+    color: skyblue;
+}
+.navbar{
+    display: inline-flex;
+    margin-top: 8px;
+   
+}
+.ball2{
+    font-size: 30;
+    margin-left: 90px;
+    color: gray;
+}
+.ball3{
+    
+    font-size: 30;
+    margin-left: 90px;
+    color: gray;
+}
+.ball4{
+    font-size: 30;
+    margin-left: 90px;
+    color: gray;
+}
+.ball5{
+    font-size: 30;
+    margin-left: 90px;
+}
+.far fa-comment{
+    margin-left: 5px;
+}
+.far fa-heart{
+    margin-left: 5px;
+}
+.profilepic2{
+    background-image: url(https://images.pexels.com/photos/1876428/pexels-photo-1876428.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 1px;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+}
+.profilename2{
+    display: inline-flex;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
+    padding-left: 53px;
+}
+.profileemail2{
+    display: inline-flex;
+    padding-top: 4px;
+    padding-left: 9px;
+    font-size: 17px;
+    color: gray;
+    font-weight: lighter;
+}
+.content2{
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 55px;
+}
+
+.line2{
+    border: 1px solid lightgray;
+    width: 639px;
+    
+}
+.post2{
+    background-image: url(https://images.pexels.com/photos/7722473/pexels-photo-7722473.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 4px;
+    margin-left: 50px;
+    height: 350px;
+    width: 570px;
+    border-radius: 18px;
+}
+.ball6{
+    display: inline-flex;
+    font-size: 30;
+    margin-left: 90px;
+    color: gray;
+}
+.ball7{
+    display: inline-flex;
+    font-size: 30;
+    margin-left: 90px;
+    color: gray;
+}
+.ball8{
+    font-size: 30;
+    margin-left: 90px;
+    color: gray;
+}
+.ball9{
+    font-size: 30;
+    margin-left: 90px;
+}
+.iconsdealer{
+    display: inline-flex;
+    padding-top: 10px;
+}
+.line3{
+    border: 1px solid lightgray;
+    width: 638px;
+
+}
+.profilepic3{
+    margin-top: 8px;
+    margin-left: 1px;
+    background-image: url(https://images.pexels.com/photos/20507409/pexels-photo-20507409/free-photo-of-cuban-and-corona-cigar-piared-with-a-cigar-case-and-lighter.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+
+}
+.profilename3{
+    display: inline-flex;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
+    padding-left: 55px;
+}
+.profileemail3{
+    padding-top: 4px;
+    padding-left: 9px;
+    font-size: 17px;
+    color: gray;
+    font-weight: lighter;
+}
+.content3{
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 55px;
+}
+.ball10{
+    display: inline-flex;
+    font-size: 30;
+    margin-left: 90px;
+    color: gray;
+}
+.iconsdealer2{
+    display:inline-flex;
+    padding-top: 10px
+}
+.ball11{
+    font-size: 30;
+    margin-left: 90px;
+    color: gray;
+}
+.ball12{
+    font-size: 30;
+    margin-left: 90px;
+    color: gray;
+}
+.ball13{
+    font-size: 30;
+    margin-left: 90px;
+    color: gray;
+}
+.post3{
+    background-image: url(https://pbs.twimg.com/media/GCmctPwXMAA5n74.jpg:large);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 4px;
+    margin-left: 50px;
+    height: 350px;
+    width: 570px;
+    border-radius: 18px; 
+}
+.container7{
+    display: inline-flex
+    ;
+  
+}
+.trendpages{
+    height: 700px;
+    width: 400px;
+    border: 1px solid lightgray;
+}
+  
